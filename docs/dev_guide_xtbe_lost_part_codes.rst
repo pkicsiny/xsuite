@@ -11,5 +11,6 @@ State  Information
 -2     Lost due to a longitudinal cut.
 -10    Lost all energy in synchrotron radiation.
 -11    Found outside interpolation grid.
+-12    Killed due to unphysical beamstrahlung.
 -333   Lost in collimator.
 =====  ==================================================================
